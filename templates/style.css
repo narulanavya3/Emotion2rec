@@ -1,0 +1,28 @@
+body{
+    background-color: #abcca2;
+}
+
+h1
+{
+    font-family: pacifico;
+    text-align: center;
+    border: 1rem;
+    margin: 2rem;
+    color: #352370;
+    font-size: 200%;
+    
+}
+
+iframe
+{
+    margin: 2% 20% 5%;
+    width: 60rem;
+    align-items: center;
+    
+}
+
+h1:hover{
+    font-size: 250%;
+    color : #748b2d
+    
+}
